@@ -1,0 +1,27 @@
+.container{
+    background:rgb(25, 70, 110);
+    display: flex;
+    padding-top: 10px;
+    width: 100vw;
+}
+.leftDivPosition{
+    /* background:red;? */
+    height: 50px;
+    width: 50px;
+}
+.navLinks{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    padding: 10px;
+    padding-top: 25px;
+    padding-bottom: -15px;
+}
+.freeTrial{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 auto;
+    color:rgb(25, 70, 110);
+    padding-top: 25px;
+    padding-left: 5px;
+    padding-bottom: -15px;
+    background:white;
+}
